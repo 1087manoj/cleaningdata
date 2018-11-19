@@ -13,7 +13,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 <h2> Project Contents </h2>
 
 * **README.TXT**  - Describes how the script works
-* **Codebook.md** - Describes the variables, the data, and any transformations or work that is performed to clean up the data
+* **CodeBook.md** - Describes the variables, the data, and any transformations or work that is performed to clean up the data
 * **run_analysis.R** -R script which is on running cleans up the data and writes the tidy data. More details after this secion.
 * **tidydata.TXT** - Tidy data set with the average of each variable for each activity and each subject. Result of run_analysis.R
 
